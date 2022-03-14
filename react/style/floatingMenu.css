@@ -1,0 +1,30 @@
+.floatingMenuContainerHidden {
+    visibility: hidden;
+    background-color: transparent;
+    border: none;
+    background-color: blue;
+
+}
+.floatingMenuContainerShow {
+    visibility: visible;
+    background-color: transparent;
+    border: none;
+    background-color: red
+}
+
+/* #burgerContainerId .showing {
+    display: inline-block;
+    background-color: blue;
+}
+
+#burgerContainerId {
+    background-color: red;
+}
+
+#containerItems {
+    display: none;
+}
+
+#containerItems.showing {
+    display: inline-block;
+} */

@@ -1,10 +1,21 @@
 {
-  "vendor": "vtex",
-  "name": "countdown",
-  "version": "0.0.1",
-  "title": "Countdown",
-  "description": "Countdown component",
-  "defaultLocale": "pt-BR",
+  "vendor": "lyracons",
+  "name": "floating-menu",
+  "version": "0.0.0",
+  "title": "Floating Menu",
+  "description": "Floating Menu with options to pick",
+  "billingOptions": {
+    "free": true,
+    "termsURL": "",
+    "support": {
+      "url": "https://www.lyracons.com/contacto/",
+      "email": "redmine@lyracons.com",
+      "phone": "+541147781550"
+    },
+    "availableCountries": [
+      "*"
+    ]
+  },
   "builders": {
     "messages": "1.x",
     "store": "0.x",
